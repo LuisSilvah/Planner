@@ -1,5 +1,5 @@
-## Card hover effects
-##### [Exit](https://github.com/LuisSilvah/Planner)
+## Beauty Planner
+##### [Exit](https://github.com/LuisSilvah/)
 
 Check the [demo here](https://beautyplanner.vercel.app/home)
 
